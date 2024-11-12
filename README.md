@@ -16,7 +16,6 @@ This is a Task Management application built with React and ReduxToolKit. It allo
 1. Clone the repository.
 2. Install dependencies: `npm install`
 3. Start the application: `npm run dev`
-4. The app will be running at `http://localhost:3000`
 
 ## API
 
